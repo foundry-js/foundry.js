@@ -1,9 +1,9 @@
-<p style="text-align: center;">
+<p align="center">
   <a href="https://github.com/foundry-js/foundry.js">
     <img src="https://raw.githubusercontent.com/foundry-js/foundry.js/main/assets/logos/Logo - primary.svg" alt="Foundry.js logo" width="200">
   </a>
 </p>
-<p style="text-align: center;">
+<p align="center">
   <a href="https://npmjs.com/package/@foundry.js/core">
     <img src="https://img.shields.io/npm/v/@foundry.js/core.svg" alt="npm package">
   </a>
